@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://dev.to/hersdev199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/devto.svg" alt="hersdev199" height="30" width="40" /></a>
 <a href="https://twitter.com/heros_dev " target="en blanco"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg " alt="heros_dev" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/heros-p%C3%A9rez-rios-41b898253" target="blank"><img align ="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="heros pérez rios" height="30" width="40" />< /a>
+<a href="https://www.linkedin.com/in/heros-p%C3%A9rez-rios-41b898253" target="blank"><img align ="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="heros pérez rios" height="30" width="40" />
 <a href="https://codesandbox.com/hersdev199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/codesandbox.svg" alt="hersdev199" height="30" width="40" /></a>
 </p>
 
